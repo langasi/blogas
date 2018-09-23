@@ -3,7 +3,7 @@
     <title>langasi-blogo-feedas</title>
     <link href="https://langasi.github.io/blogas/feed.xml" rel="self" />
     <link href="https://langasi.github.io/blogas" />
-    <updated>2018-09-23T21:34:46+03:00</updated>
+    <updated>2018-09-23T21:46:36+03:00</updated>
     <author>
         <name>langasi</name>
     </author>
@@ -17,9 +17,9 @@
         <link href="https://langasi.github.io/blogas/kreipimosi-i-vandens-pavidalus-variantas/"/>
         <id>https://langasi.github.io/blogas/kreipimosi-i-vandens-pavidalus-variantas/</id>
             <category term="vanduo"/>
-            <category term="kreipimasis"/>
+            <category term="nuosavas rašinys"/>
 
-        <updated>2018-09-23T21:20:44+03:00</updated>
+        <updated>2018-09-23T21:42:22+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/25/image-504.jpg" alt="" />
@@ -44,8 +44,9 @@
         <id>https://langasi.github.io/blogas/apie-realybe-kuri-yra-ir-realybe-kuri-turi-buti/</id>
             <category term="tikrovė"/>
             <category term="teisė"/>
+            <category term="citata"/>
 
-        <updated>2018-09-23T20:37:36+03:00</updated>
+        <updated>2018-09-23T21:42:37+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/24/" alt="" />
@@ -334,10 +335,11 @@
         </author>
         <link href="https://langasi.github.io/blogas/apie-teatra/"/>
         <id>https://langasi.github.io/blogas/apie-teatra/</id>
+            <category term="tekstai"/>
             <category term="teatras"/>
             <category term="ištrauka"/>
 
-        <updated>2018-09-23T20:39:28+03:00</updated>
+        <updated>2018-09-23T21:39:21+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/22/" alt="" />
@@ -376,8 +378,12 @@
         </author>
         <link href="https://langasi.github.io/blogas/akmens-knyga-3-dalis/"/>
         <id>https://langasi.github.io/blogas/akmens-knyga-3-dalis/</id>
+            <category term="vertimas"/>
+            <category term="tekstai"/>
+            <category term="ištrauka"/>
+            <category term="akmens knyga"/>
 
-        <updated>2018-09-23T20:13:32+03:00</updated>
+        <updated>2018-09-23T21:43:49+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/21/" alt="" />
@@ -440,8 +446,10 @@
         </author>
         <link href="https://langasi.github.io/blogas/object-object-2/"/>
         <id>https://langasi.github.io/blogas/object-object-2/</id>
+            <category term="sapnas"/>
+            <category term="dienoraštis"/>
 
-        <updated>2018-09-23T20:13:26+03:00</updated>
+        <updated>2018-09-23T21:44:47+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/20/" alt="" />
@@ -465,8 +473,11 @@
         </author>
         <link href="https://langasi.github.io/blogas/slidus-mitas-apie-tai-2/"/>
         <id>https://langasi.github.io/blogas/slidus-mitas-apie-tai-2/</id>
+            <category term="vertimas"/>
+            <category term="tekstai"/>
+            <category term="ištrauka"/>
 
-        <updated>2018-09-23T20:13:18+03:00</updated>
+        <updated>2018-09-23T21:43:06+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/19/" alt="" />
@@ -501,8 +512,10 @@
         </author>
         <link href="https://langasi.github.io/blogas/prickles-and-goo/"/>
         <id>https://langasi.github.io/blogas/prickles-and-goo/</id>
+            <category term="video"/>
+            <category term="animacija"/>
 
-        <updated>2018-09-23T20:13:13+03:00</updated>
+        <updated>2018-09-23T21:40:42+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/18/" alt="" />
@@ -533,8 +546,10 @@
         </author>
         <link href="https://langasi.github.io/blogas/tokia-juokinga-istorija/"/>
         <id>https://langasi.github.io/blogas/tokia-juokinga-istorija/</id>
+            <category term="tekstai"/>
+            <category term="ištrauka"/>
 
-        <updated>2018-09-23T20:11:36+03:00</updated>
+        <updated>2018-09-23T21:40:59+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/17/" alt="" />
@@ -557,8 +572,10 @@
         </author>
         <link href="https://langasi.github.io/blogas/apie-kelioniu-i-svetimas-salis-nauda/"/>
         <id>https://langasi.github.io/blogas/apie-kelioniu-i-svetimas-salis-nauda/</id>
+            <category term="tekstai"/>
+            <category term="ištrauka"/>
 
-        <updated>2018-09-23T20:11:24+03:00</updated>
+        <updated>2018-09-23T21:41:26+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/16/" alt="" />
@@ -589,8 +606,12 @@
         </author>
         <link href="https://langasi.github.io/blogas/akmens-knyga-2-dalis/"/>
         <id>https://langasi.github.io/blogas/akmens-knyga-2-dalis/</id>
+            <category term="vertimas"/>
+            <category term="tekstai"/>
+            <category term="ištrauka"/>
+            <category term="akmens knyga"/>
 
-        <updated>2018-09-23T20:11:17+03:00</updated>
+        <updated>2018-09-23T21:44:03+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/15/" alt="" />
@@ -671,8 +692,12 @@
         </author>
         <link href="https://langasi.github.io/blogas/akmens-knyga-1-dalis-2/"/>
         <id>https://langasi.github.io/blogas/akmens-knyga-1-dalis-2/</id>
+            <category term="vertimas"/>
+            <category term="tekstai"/>
+            <category term="ištrauka"/>
+            <category term="akmens knyga"/>
 
-        <updated>2018-09-23T20:11:09+03:00</updated>
+        <updated>2018-09-23T21:43:41+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/14/" alt="" />
@@ -732,8 +757,10 @@
         </author>
         <link href="https://langasi.github.io/blogas/object-object/"/>
         <id>https://langasi.github.io/blogas/object-object/</id>
+            <category term="zen"/>
+            <category term="citata"/>
 
-        <updated>2018-09-23T20:10:56+03:00</updated>
+        <updated>2018-09-23T21:44:19+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/13/" alt="" />
@@ -758,8 +785,9 @@
         </author>
         <link href="https://langasi.github.io/blogas/ptyc/"/>
         <id>https://langasi.github.io/blogas/ptyc/</id>
+            <category term="dienoraštis"/>
 
-        <updated>2018-09-23T20:09:35+03:00</updated>
+        <updated>2018-09-23T21:44:35+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/12/" alt="" />
@@ -782,8 +810,9 @@
         </author>
         <link href="https://langasi.github.io/blogas/radau-tarp-senu-uzrasu/"/>
         <id>https://langasi.github.io/blogas/radau-tarp-senu-uzrasu/</id>
+            <category term="random"/>
 
-        <updated>2018-09-23T20:04:15+03:00</updated>
+        <updated>2018-09-23T21:45:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/11/" alt="" />
@@ -808,8 +837,11 @@
         </author>
         <link href="https://langasi.github.io/blogas/l/"/>
         <id>https://langasi.github.io/blogas/l/</id>
+            <category term="random"/>
+            <category term="muzika"/>
+            <category term="dienoraštis"/>
 
-        <updated>2018-09-23T20:03:34+03:00</updated>
+        <updated>2018-09-23T21:45:27+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/10/" alt="" />
@@ -832,8 +864,10 @@
         </author>
         <link href="https://langasi.github.io/blogas/f/"/>
         <id>https://langasi.github.io/blogas/f/</id>
+            <category term="kinas"/>
+            <category term="dienoraštis"/>
 
-        <updated>2018-09-23T20:03:27+03:00</updated>
+        <updated>2018-09-23T21:46:11+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/9/" alt="" />
@@ -857,18 +891,21 @@
         </author>
         <link href="https://langasi.github.io/blogas/i/"/>
         <id>https://langasi.github.io/blogas/i/</id>
+            <category term="random"/>
+            <category term="dienoraštis"/>
 
-        <updated>2018-09-18T22:23:42+03:00</updated>
+        <updated>2018-09-23T21:46:00+03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://langasi.github.io/blogas/media/posts/8/" alt="" />
                     Radau ryte muzikos, kuri primena, kaip sutikau vienus kažkuriuos naujus metus, kai man buvo gal 12 metų (spėjimas). Naujieji būdavo diena kaip diena. Vakare išeinam&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://langasi.github.io/blogas/media/posts/8/" alt="" />
                 <p>Radau ryte muzikos, kuri primena, kaip sutikau vienus kažkuriuos naujus metus, kai man buvo gal 12 metų (spėjimas).</p>
 <p>Naujieji būdavo diena kaip diena. Vakare išeinam pažiūrėti fejerverkų ir kai kada pabraidyti po balas. Paskui sekanti vėl - diena kaip diena. Tada irgi buvo diena kaip diena, tik ne nuosavuose namuose. Nupušę toliau pušo prie stalo, kažkur tamsoj užvertęs galvą klausiau muzikos, kuri, kaip sakiau, primena, kaip sutikau tuos naujuosius metus. Tada man ta muzika labai patiko. Virtuvėj šiek tiek kalbėjom su V., ji man buvo iki bambos ir gražiai šypsojosi. Dabar ji aukštesnė. Tada nufotografavau V., kažkur dar netgi rasčiau nuotrauką. Daugiau nieko neprisimenu.</p>
-
             ]]>
         </content>
     </entry>
@@ -880,16 +917,17 @@
         <link href="https://langasi.github.io/blogas/r/"/>
         <id>https://langasi.github.io/blogas/r/</id>
 
-        <updated>2018-09-18T22:23:42+03:00</updated>
+        <updated>2018-09-23T21:46:20+03:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://langasi.github.io/blogas/media/posts/7/" alt="" />
                     Vakar svarsčiau, ar mėginti sukurpti pirmą blogiškesnį blogo įrašą. Išbuvau su mintim, nuo kurios vis tiek daugiau ar mažiau atsiribojau: jeigu šaus į galvą kas&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://langasi.github.io/blogas/media/posts/7/" alt="" />
                 <p>Vakar svarsčiau, ar mėginti sukurpti pirmą blogiškesnį blogo įrašą. Išbuvau su mintim, nuo kurios vis tiek daugiau ar mažiau atsiribojau: jeigu šaus į galvą kas nors, ką norėčiau, kad kas nors galėtų perskaityti, tada sukurpsiu.</p>
-
             ]]>
         </content>
     </entry>
