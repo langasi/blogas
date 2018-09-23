@@ -3,7 +3,7 @@
     <title>langasi-blogo-feedas</title>
     <link href="https://langasi.github.io/blogas/feed.xml" rel="self" />
     <link href="https://langasi.github.io/blogas" />
-    <updated>2018-09-23T20:35:06+03:00</updated>
+    <updated>2018-09-23T20:54:44+03:00</updated>
     <author>
         <name>langasi</name>
     </author>
@@ -16,21 +16,19 @@
         </author>
         <link href="https://langasi.github.io/blogas/kreipimosi-i-vandens-pavidalus-variantas/"/>
         <id>https://langasi.github.io/blogas/kreipimosi-i-vandens-pavidalus-variantas/</id>
-            <category term="visokie reikalai"/>
             <category term="vanduo"/>
-            <category term="pavidalas"/>
             <category term="kreipimasis"/>
 
-        <updated>2018-09-23T20:14:00+03:00</updated>
+        <updated>2018-09-23T20:38:35+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://langasi.github.io/blogas/media/posts/25/" alt="" />
-                    Nežinau, kieno šitas paveiksliukas.Susigalvojom, susidėliojom va tokį tai keistoką, gal ir nelabai vykusį&hellip;
+                        <img src="https://langasi.github.io/blogas/media/posts/25/image-504.jpg" alt="" />
+                    Nežinau, kieno šitas paveiksliukas.Susigalvojom, susidėliojom va tokį tai keistoką, gal ir nelabai vykusį tekstą. Pavadininom: "Kreipimosi į vandens pavidalus variantas". Pabandysim jį pritaikyt. Kreipimosi į vandens&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://langasi.github.io/blogas/media/posts/25/" alt="" />
+                    <img src="https://langasi.github.io/blogas/media/posts/25/image-504.jpg" alt="" />
                 <div style="text-align: center;">
 <dl id="">
 <dt><a href="http://langasi.files.wordpress.com/2012/10/image-504.jpg"><img id="i-155" class="aligncenter" src="https://langasi.github.io/blogas/media/posts/25/image-504.jpg" alt="" width="608" height="425"></a></dt>
@@ -51,16 +49,13 @@
         <link href="https://langasi.github.io/blogas/apie-realybe-kuri-yra-ir-realybe-kuri-turi-buti/"/>
         <id>https://langasi.github.io/blogas/apie-realybe-kuri-yra-ir-realybe-kuri-turi-buti/</id>
             <category term="tikrovė"/>
-            <category term="teisės prigimtis"/>
             <category term="teisė"/>
-            <category term="kuri yra"/>
-            <category term="kuri turi būti"/>
 
-        <updated>2018-09-23T20:13:54+03:00</updated>
+        <updated>2018-09-23T20:37:36+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/24/" alt="" />
-                    Nežinantiems apie teisės prigimtį ir skirtumą tarp tikrovės, kuri yra, ir tikrovės,&hellip;
+                    Nežinantiems apie teisės prigimtį ir skirtumą tarp tikrovės, kuri yra, ir tikrovės, kuri turi būti: įsivaizduokim, kad man priklauso smauglys, ir kad mano turimas smauglys&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -78,17 +73,15 @@
         </author>
         <link href="https://langasi.github.io/blogas/dalinimasis-japoniska-poezija-2/"/>
         <id>https://langasi.github.io/blogas/dalinimasis-japoniska-poezija-2/</id>
-            <category term="japonų poetės"/>
-            <category term="japoniški eilėraščiai"/>
-            <category term="hakai"/>
+            <category term="poezija"/>
+            <category term="japonija"/>
             <category term="haiku"/>
-            <category term="gražūs eilėraščiai"/>
 
-        <updated>2018-09-23T20:13:44+03:00</updated>
+        <updated>2018-09-23T20:39:03+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/23/" alt="" />
-                    Šiandien truputį skaičiau visokią japonišką poeziją. Daug puikios poezijos ten pas juos.
+                    Šiandien truputį skaičiau visokią japonišką poeziją. Daug puikios poezijos ten pas juos. Tai šiuo bei tuo dalinuosi. Perskaičiau dalį knygos, kur surinkta tik moterų japonių eilėraščiai,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -347,12 +340,14 @@
         </author>
         <link href="https://langasi.github.io/blogas/apie-teatra/"/>
         <id>https://langasi.github.io/blogas/apie-teatra/</id>
+            <category term="teatras"/>
+            <category term="ištrauka"/>
 
-        <updated>2018-09-23T20:13:39+03:00</updated>
+        <updated>2018-09-23T20:39:28+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/22/" alt="" />
-                    Šiame įraše pateikiu laisva forma ir biškelį greitomis dėl neplanuotai ištikusio piktumo,&hellip;
+                    Šiame įraše pateikiu laisva forma ir biškelį greitomis dėl neplanuotai ištikusio piktumo, nuovargio ir galbūt menko nusivylimo šiuo bei tuo ir iš to kilusio pasiryžimo&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -392,7 +387,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/21/" alt="" />
-                    - Greičiau! Greičiau! - ji šaukė. Sumušė kulnais į auksinius gaidžio šonus&hellip;
+                    - Greičiau! Greičiau! - ji šaukė. Sumušė kulnais į auksinius gaidžio šonus ir gaidys sudundėjo. - Vūū--hūūūū! Vūūū-hūūūūū! Vūūūūūūūū! - rėkė tėvas. Aukštas jo balso&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -456,7 +451,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/20/" alt="" />
-                    Sapnavau paskutinę naktį tokį sapną, kur nutiko kažkas, nepamenu kas, ir po&hellip;
+                    Sapnavau paskutinę naktį tokį sapną, kur nutiko kažkas, nepamenu kas, ir po to, kai nutiko, žinojau, kad jau tuojau tuojau mirsiu, labai aiškiai žinojau, taip,&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -481,7 +476,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/19/" alt="" />
-                    Slidus mitas apie taiiš kur atsirado pasaulis, kodėl Dievas jį sukūrė, kur mes&hellip;
+                    Slidus mitas apie taiiš kur atsirado pasaulis, kodėl Dievas jį sukūrė, kur mes būnam iki gimstam ir kur dingstam, kai numirštam Niekada nebuvo tokio laiko, kai pasaulis&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -549,7 +544,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/17/" alt="" />
-                    Vyras turėjo keturias žmonas. Viena visad gyveno su juo ir jis taikėsi&hellip;
+                    Vyras turėjo keturias žmonas. Viena visad gyveno su juo ir jis taikėsi prie visko, ko ji norėjo, parūpindavo gerus baldus jos kambariams, viską parūpindavo, viskuo&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -573,7 +568,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/16/" alt="" />
-                    Ištrauka iš knygos "Keliautojai ir atradėjai. Dviejų tūkstančių kelionių aprašymai.", "Mintis" Vilnius,&hellip;
+                    Ištrauka iš knygos "Keliautojai ir atradėjai. Dviejų tūkstančių kelionių aprašymai.", "Mintis" Vilnius, 1980. Iš tikro tai daugiau nei ištrauka, netgi pats pirmiausias tekstas knygoje, įžanginis&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -605,7 +600,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/15/" alt="" />
-                    Auksinis blizgutis - tai vėtrungė. Tą savaitę ją iškėlė, o po jos&hellip;
+                    Auksinis blizgutis - tai vėtrungė. Tą savaitę ją iškėlė, o po jos spygliu kabojo viršutinioji platforma. Pro platformos kraštą pasirodė Tėvo galva. - Ei, žeme!&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -687,7 +682,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/14/" alt="" />
-                    Radau tokią gražią knygutę, pavadinimu The Stone Book. Pakliuvo jinai į mano&hellip;
+                    Radau tokią gražią knygutę, pavadinimu The Stone Book. Pakliuvo jinai į mano rankas ir tiek. Autorius Alan Garner. Plona knygutė. Maloniai skaitosi. Pradėjau versti į&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -748,7 +743,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/13/" alt="" />
-                    Shunryū Suzuki-rōshi The importance of practice: If you say you cannot practice&hellip;
+                    Shunryū Suzuki-rōshi The importance of practice: If you say you cannot practice any more because of this or that, that is the opposite of what&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -774,7 +769,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/12/" alt="" />
-                    Šiandien yra ta diena, kai rytoj pasibaigs mano sesija, be to sekmadienis.
+                    Šiandien yra ta diena, kai rytoj pasibaigs mano sesija, be to sekmadienis. Dabar va esti apie dešimta valanda ryto. Visą likusią dieną skaitysiu civilinį kodeksą&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -798,7 +793,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/11/" alt="" />
-                    Radau tarp senų užrašų lapą, išplėštą iš bloknoto. Prie jo trūksta lapo,&hellip;
+                    Radau tarp senų užrašų lapą, išplėštą iš bloknoto. Prie jo trūksta lapo, kuris turėjo būti anksčiau. Bet tokie jau mano užrašai būna visada - lapas&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -824,7 +819,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/10/" alt="" />
-                    Lauke šįryt pilka nuo vieno dangaus pakraščio iki kito. Pabudau ir ėmiau&hellip;
+                    Lauke šįryt pilka nuo vieno dangaus pakraščio iki kito. Pabudau ir ėmiau kosėti, nieko neiškosėdamas, sakytum, dulkes reikia nusipurtyti nuo apdūlėjusių kvėpavimo takų. Trūnija jie&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -848,7 +843,7 @@
             <summary>
                 <![CDATA[
                         <img src="https://langasi.github.io/blogas/media/posts/9/" alt="" />
-                    Baigiau žiūrėti filmą. “Save the green planet”. Taip jau nutinka, kad korėjiečių&hellip;
+                    Baigiau žiūrėti filmą. “Save the green planet”. Taip jau nutinka, kad korėjiečių filmai, kai tik pažiūriu, man beveik niekada neatrodo eiliniai filmai, tai šitas irgi&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -872,7 +867,7 @@
         <updated>2018-09-18T22:23:42+03:00</updated>
             <summary>
                 <![CDATA[
-                    Radau ryte muzikos, kuri primena, kaip sutikau vienus kažkuriuos naujus metus, kai&hellip;
+                    Radau ryte muzikos, kuri primena, kaip sutikau vienus kažkuriuos naujus metus, kai man buvo gal 12 metų (spėjimas). Naujieji būdavo diena kaip diena. Vakare išeinam&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -894,7 +889,7 @@
         <updated>2018-09-18T22:23:42+03:00</updated>
             <summary>
                 <![CDATA[
-                    Vakar svarsčiau, ar mėginti sukurpti pirmą blogiškesnį blogo įrašą. Išbuvau su mintim,&hellip;
+                    Vakar svarsčiau, ar mėginti sukurpti pirmą blogiškesnį blogo įrašą. Išbuvau su mintim, nuo kurios vis tiek daugiau ar mažiau atsiribojau: jeigu šaus į galvą kas&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -915,7 +910,7 @@
         <updated>2018-09-18T22:23:42+03:00</updated>
             <summary>
                 <![CDATA[
-                    Kartą jau mėginau rašyti blogą. Kelis kartus. Vieną jų rašiau gal pusę&hellip;
+                    Kartą jau mėginau rašyti blogą. Kelis kartus. Vieną jų rašiau gal pusę metų, per pusę metų padariau tris ar keturis įrašus, vidutiniškai kokio sakinio ilgumo.
                 ]]>
             </summary>
         <content type="html">
