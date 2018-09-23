@@ -38,8 +38,6 @@
                 "name": "langasi"
             },
             "tags": [
-                   "tikrovė",
-                   "teisė",
                    "citata"
             ],
             "date_published": "2012-09-05T14:59:31+03:00",
@@ -95,7 +93,7 @@
                    "vertimas",
                    "tekstai",
                    "ištrauka",
-                   "akmens knyga"
+                   "akmens-knyga"
             ],
             "date_published": "2011-10-08T10:23:50+03:00",
             "date_modified": "2018-09-23T21:43:49+03:00"
@@ -200,7 +198,7 @@
                    "vertimas",
                    "tekstai",
                    "ištrauka",
-                   "akmens knyga"
+                   "akmens-knyga"
             ],
             "date_published": "2010-12-29T01:24:45+02:00",
             "date_modified": "2018-09-23T21:44:03+03:00"
@@ -219,7 +217,7 @@
                    "vertimas",
                    "tekstai",
                    "ištrauka",
-                   "akmens knyga"
+                   "akmens-knyga"
             ],
             "date_published": "2010-12-27T22:21:29+02:00",
             "date_modified": "2018-09-23T21:43:41+03:00"
