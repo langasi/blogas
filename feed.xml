@@ -3,37 +3,12 @@
     <title>langasi-blogo-feedas</title>
     <link href="https://langasi.github.io/blogas/feed.xml" rel="self" />
     <link href="https://langasi.github.io/blogas" />
-    <updated>2018-09-23T22:43:49+03:00</updated>
+    <updated>2018-09-23T22:49:09+03:00</updated>
     <author>
         <name>langasi</name>
     </author>
     <id>https://langasi.github.io/blogas</id>
 
-    <entry>
-        <title>test</title>
-        <author>
-            <name>langasi</name>
-        </author>
-        <link href="https://langasi.github.io/blogas/test-2/"/>
-        <id>https://langasi.github.io/blogas/test-2/</id>
-
-        <updated>2018-09-23T22:43:37+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://langasi.github.io/blogas/media/posts/26/" alt="" />
-                     // 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://langasi.github.io/blogas/media/posts/26/" alt="" />
-                <div id="viz1537731798972" class="tableauPlaceholder" style="position: relative;"><noscript><a href='http:&#47;&#47;www.kenflerlage.com'><img alt='Comparison ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WordUsageinSacredTextsWIP&#47;Comparison&#47;1_rss.png' style='border: none' /></a></noscript><object class="tableauViz" style="display: none;" width="300" height="150"><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F" /> <param name="embed_code_version" value="3" /> <param name="site_root" value="" /><param name="name" value="WordUsageinSacredTextsWIP/Comparison" /><param name="tabs" value="no" /><param name="toolbar" value="yes" /><param name="static_image" value="https://public.tableau.com/static/images/Wo/WordUsageinSacredTextsWIP/Comparison/1.png" /> <param name="animate_transition" value="yes" /><param name="display_static_image" value="yes" /><param name="display_spinner" value="yes" /><param name="display_overlay" value="yes" /><param name="display_count" value="yes" /></object></div>
-<script type="text/javascript">// <![CDATA[
-                    var divElement = document.getElementById('viz1537731798972');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1200px';vizElement.style.height='2227px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-// ]]></script>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Kreipimosi į vandens pavidalus variantas</title>
         <author>
@@ -951,6 +926,28 @@
             <![CDATA[
                     <img src="https://langasi.github.io/blogas/media/posts/7/" alt="" />
                 <p>Vakar svarsčiau, ar mėginti sukurpti pirmą blogiškesnį blogo įrašą. Išbuvau su mintim, nuo kurios vis tiek daugiau ar mažiau atsiribojau: jeigu šaus į galvą kas nors, ką norėčiau, kad kas nors galėtų perskaityti, tada sukurpsiu.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>pradžia</title>
+        <author>
+            <name>langasi</name>
+        </author>
+        <link href="https://langasi.github.io/blogas/pradzia/"/>
+        <id>https://langasi.github.io/blogas/pradzia/</id>
+
+        <updated>2018-09-18T22:23:42+03:00</updated>
+            <summary>
+                <![CDATA[
+                    Kartą jau mėginau rašyti blogą. Kelis kartus. Vieną jų rašiau gal pusę metų, per pusę metų padariau tris ar keturis įrašus, vidutiniškai kokio sakinio ilgumo.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Kartą jau mėginau rašyti blogą. Kelis kartus. Vieną jų rašiau gal pusę metų, per pusę metų padariau tris ar keturis įrašus, vidutiniškai kokio sakinio ilgumo. Vieną dieną viską ištryniau. Niekas neskaitė. Nuo tos dienos žinojausi sau, kad anksčiau ar vėliau vėl pradėsiu ir tuomet jau rašysiu netgi tai, ką pagalvoju. Taigi rašau. Šis įrašas nėra pilnavertis įrašas, nes per trumpas.</p>
+<p>Rašysiu tai, ką rašyčiau į dienoraštį. Jūs į savo dienoraščius greičiausiai rašytumėte ką kita. Aš tai darysiu pakankamai miglotai, kad daug nesuprastumėt. Tai viena mano ydų. Labai daug savęs noriu nuslėpti nuo žmonių akių ir todėl ne dažnuose akiračiuose rodausi. Tai įstabiai kvaila.</p>
+
             ]]>
         </content>
     </entry>
